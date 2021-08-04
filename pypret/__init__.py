@@ -13,6 +13,7 @@ from .autocorrelation import autocorrelation
 from .fourier import FourierTransform
 from .pulse import Pulse
 from .random_pulse import random_pulse, random_gaussian
+from .normal_pulse import normal_pulse
 from .pulse_error import pulse_error
 from .pnps import PNPS
 from .mesh_data import MeshData
